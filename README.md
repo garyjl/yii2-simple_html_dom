@@ -11,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist garyjl/yii2-simplehtmldom "*"
+php composer.phar require --prefer-dist garyjl/yii2-simple_html_dom "*"
 ```
 
 or add
 
 ```
-"garyjl/yii2-simplehtmldom": "*"
+"garyjl/yii2-simple_html_dom": "*"
 ```
 
 to the require section of your `composer.json` file.
