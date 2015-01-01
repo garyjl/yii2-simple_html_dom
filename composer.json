@@ -4,12 +4,6 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension","html","parser"],
     "license": "MIT",
-    "homepage": "https://github.com/garyjl/yii2-simple_html_dom",
-    "version":"1",
-    "require":{
-        "php":">=5.3.0",
-		"yiisoft/yii2": "*"
-    },
     "authors": [
         {
             "name": "S.C. Chen",
@@ -21,6 +15,10 @@
             "email": "garyjl21@gmail.com"
         }
     ],
+	"require":{
+        "php":">=5.3.0",
+		"yiisoft/yii2": "*"
+    },
     "autoload": {
         "psr-4": {
             "garyjl\\simplehtmldom\\": ""
