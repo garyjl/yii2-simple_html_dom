@@ -1,0 +1,35 @@
+{
+    "name": "garyjl/yii2-simple_html_dom",
+    "description": "Simple HTML DOM parser for Yii 2 framework.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","html","parser"],
+    "license": "MIT",
+    "homepage": "https://github.com/garyjl/yii2-simple_html_dom",
+    "version":"1",
+    "require":{
+        "php":">=5.3.0",
+		"yiisoft/yii2": "*"
+    },
+    "authors": [
+        {
+            "name": "S.C. Chen",
+            "email": "me578022@gmail.com",
+            "homepage": "http://simplehtmldom.sourceforge.net/"
+        },
+        {
+            "name": "G Liu",
+            "email": "garyjl21@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "garyjl\\simplehtmldom\\": ""
+        }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/garyjl/yii2-simple_html_dom",
+        }
+    ]
+}
