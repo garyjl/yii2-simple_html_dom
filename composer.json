@@ -24,5 +24,11 @@
         "psr-0": {
             "garyjl\\simplehtmldom\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/garyjl/yii2-simple_html_dom"
+        }
+    ]
 }
