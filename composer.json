@@ -1,6 +1,7 @@
 {
     "name": "garyjl/yii2-simple_html_dom",
     "description": "Simple HTML DOM parser for Yii 2 framework.",
+	"version": "1.0.0",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","html","parser"],
     "license": "MIT",
