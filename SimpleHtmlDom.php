@@ -1,7 +1,7 @@
 <?php
 namespace garyjl\simplehtmldom;
 
-use garyjl\simplehtmldom\libs\simple_html_dom;
+require_once(dirname(__FILE__) . 'libs/simple_html_dom.php');
 
 class SimpleHtmlDom 
 {
