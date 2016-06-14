@@ -29,6 +29,6 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \garyjl\simplehtmldom\SimpleHTMLDom::file_get_html('http://www.abc.com'); ?>
+<?= \garyjl\simplehtmldom\SimpleHtmlDom::file_get_html('http://www.abc.com'); ?>
 
 See more: http://simplehtmldom.sourceforge.net/
